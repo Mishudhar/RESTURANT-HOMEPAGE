@@ -1,5 +1,5 @@
-# RESTURANT-HOMEPAGE
-This is basically a one pager webpage made in HTML/CSS for an imaginary restraunt.I Hope you will like my project !!
+# RESTAURANT-HOMEPAGE
+This is basically a one pager webpage made in HTML/CSS for an imaginary restaurant.I Hope you will like my project !!
  And Note that I haven't made it responsive it only works in desktop screen if you are useing laptop please zomm out that might work.
 # Technologies Used
 - HTML - Hyper Text Markup Language
